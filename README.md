@@ -1,3 +1,3 @@
 # utk-ise-couenne-starter-pack
-run
-`couenne instance.nl`
+http://www.minlplib.org/cvxnonsep_normcon20.html
+`couenne cvxnonsep_normcon20.nl`
