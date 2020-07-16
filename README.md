@@ -1,7 +1,8 @@
 # utk-ise-couenne-starter-pack
+The link below is the source for this MINLP instance:
 
 http://www.minlplib.org/cvxnonsep_normcon20.html
-
+---
 Run the following command to check that couenne is properly installed
 
 `couenne --version`
