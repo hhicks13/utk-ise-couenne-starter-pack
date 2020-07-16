@@ -4,3 +4,4 @@ Run the following command to check that couenne is properly installed
 `couenne --version`
 If this does not throw an error, then run the following in this directory:    
 `couenne cvxnonsep_normcon20.nl`
+The manual for couenne is the `.pdf` file in this directory. 
